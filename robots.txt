@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://christiansmiller.com/sitemap.xml
+Sitemap: https://cmillgit.github.io/sitemap.xml
