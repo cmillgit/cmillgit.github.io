@@ -6,19 +6,19 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Headshot-1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello and welcome to my personal webpage! I’m Christian, a soon-to-be Economics graduate from the University of Oklahoma with a passion for data analysis and a drive to apply modern technology to solve and understand real-world problems. My academic journey has been characterized by a dedication to developing analytical and problem-solving skills, which have laid a solid foundation for my career aspirations in analytics and consulting. This dedication has been rewarded with a place on the President's Honor Roll and a streak of academic excellence I'm proud to maintain.
+Hello and welcome to my personal webpage! I’m Christian, a soon-to-be Economics graduate from the University of Oklahoma with a passion for data analysis and a drive to apply modern technology to solve and understand real-world problems. My academic journey has been characterized by a dedication to developing analytical and problem-solving skills, which have laid a solid foundation for my career aspirations in analytics and consulting. This dedication has been rewarded with a place on the President's Honor Roll and a streak of academic progress I'm proud to maintain.
 
 Last summer, I embarked on a learning journey with R programming, which culminated in an empirical project analyzing the impacts of historical events on airfares using fixed-effects regression. This experience, along with my other coursework and my senior capstone project analyzing international cartels, has honed my skills in data analysis, visualization, and modeling—skills I'm eager to apply in the professional world.
 
